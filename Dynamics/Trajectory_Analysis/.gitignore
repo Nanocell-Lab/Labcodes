@@ -1,6 +1,6 @@
-# All subfolder with
-**/run
-**/projects
+# My folders
+projects/
+run/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
