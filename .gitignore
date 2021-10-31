@@ -1,7 +1,8 @@
 # All subfolder with
 **/run
 **/projects
-*.DS_Store
+**/conection.py
+**/.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
